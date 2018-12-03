@@ -3,24 +3,25 @@
 ### Use Cases:  
 
 ##### UC-1: Manage Backups  
-
+Backups for the system should be created on a regular basis, where after the creation of a new backup, the previous revision is overwritten.  
 ##### UC-2: Update Course Offerings  
-
+Administrator can change and implement new course offerings, as well as modification of previously existing courses.  
 ##### UC-3: Access  
-
+User requests information pertaining to courses and the system sends responses corresponding to their queries.  
 ##### UC-4: Manage System Downtime  
-
+System Maintainer sends notifications to all users prior to shutdown of the system for purposes of system management. These updates and modifications are only done at non-peak hours.  
 ##### UC-5: Login & User Account Typing  
-
+Login credentials are supplied by users and their corresponding account, including their account type is retrieved showing the user only information available as per their clearance level.  
 ##### UC-6: Messaging System  
-
+A messaging system to allow for users to communicate with one another.  
 ##### UC-7: Courses  
-
+Allows for access of course information, modification of the course offerings, availability of courses and storage of courses.  
 ##### UC-8: Security & Privacy  
-
+System shall maintain security through login system and privacy through protection of user information.  
 ##### UC-9: Notifications & Teams  
-
+System shall send users notifications based on changes that affect them. Furthermore, system shall allow for creation of teams.  
 ##### UC-10: Boz File Import   
+System shall allow the import of BOZ roster information into the course roster.  
 
 ### Quality Attributes:
 

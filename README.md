@@ -54,3 +54,26 @@ The system must be able to display notifications set by lecturers and administra
 
 ##### QA-10: Usability  
 System will need to be able to handle BOZ file imports from users.  
+
+### Constraints  
+
+##### CON-1:  
+The system must be accessed through a web browser (Chrome V3.0+, Firefox V4+, IE8+) on either Windows, MacOS, or Linux.  
+
+##### CON-2:  
+The system will require a database capable of storing at minimum 5 TB of data.  
+
+##### CON-3:  
+The System must be accessible on low bandwidth connections.  
+
+##### CON-4:  
+All actions performed by the database within the last month should be stored.  
+
+##### CON-5:  
+Backups must be created each day at 11 59 PM and should take no longer than 5 minutes to generate.  
+
+##### CON-6:  
+System must be able to process large amounts of requests without crashing.  
+
+##### CON-7:  
+System must be protected from Denial of Service attacks as well as SQL injection attacks.  

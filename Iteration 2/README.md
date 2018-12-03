@@ -1,4 +1,4 @@
-## Iteration 1: Structure the System
+## Iteration 2: Support Primary Functionality
 
 ###### Step 1: Review Inputs  
 

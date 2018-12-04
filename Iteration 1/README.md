@@ -3,19 +3,19 @@
 #### Step 1 would normally be review of inputs, but that's already been done, thus it has been removed for simplicity.  
 
 ###### Step 1: Establish Iteration Goal by Selecting Drivers  
-##### Use Cases
+###### Use Cases
 * UC-1
 * UC-4
 * UC-5
 * UC-6
 * UC-7
-##### Quality Attributes
+###### Quality Attributes
 * QA-1
 * QA-4
 * QA-5
 * QA-6
 * QA-7
-##### Constraints
+###### Constraints
 * CON-1
 * CON-2
 * CON-3

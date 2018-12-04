@@ -2,7 +2,7 @@
 
 #### Step 1 would normally be review of inputs, but that's already been done, thus it has been removed for simplicity.  
 
-#### Step 1: Establish Iteration Goal by Selecting Drivers  
+###### Step 1: Establish Iteration Goal by Selecting Drivers  
 ##### Use Cases
 * UC-1
 * UC-4

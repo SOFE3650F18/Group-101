@@ -30,7 +30,7 @@ As such, the system will incorporate a Three Tier Architecture, wherein the back
 The system should also follow the Model-View-Controller Pattern (MVC) as this pattern is among the best notably for web based applications. 
 
 ###### Step 5: Sketch Views and Record Design Decisions
-[Iteration 1 Image](Iteration1.PNG)
+![Iteration 1 Image](Iteration1.PNG)
 
 ###### Step 6: Perform Analysis of Current Design and Review Iteration Goal and Design Objectives  
 Addressed through the use of the Kanban board as per project instructions.

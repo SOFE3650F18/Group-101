@@ -20,6 +20,6 @@ Secondly, the file upload type system needs to be adddressed in order to encorpo
 ###### Step 4: Instantiate Architectural Elements, Allocate Responsibilities and Define Interfaces  
 Implement SQL protection in the query sector of the backend allowing checking for SQL injection type attacks in order to prevent such attacks from occuring.
 ###### Step 5: Sketch Views and Record Design Decisions  
-
+![Iteration 3 Image](Iteration3.PNG)
 ###### Step 6: Perform Analysis of Current Design and Review Iteration Goal and Design Objectives 
 Addressed through the use of the Kanban board as per project instructions.  
